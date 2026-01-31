@@ -26,3 +26,4 @@ A simple command-line slot machine game built using Python.
 
 ## Why I Built This
 This project was built to strengthen my Python fundamentals and logical thinking.
+
