@@ -1,33 +1,28 @@
-# 🎰 Python Slot Machine Game
+# Slot Machine Game (Python)
 
-A simple text-based slot machine game built with Python.
+A simple command-line slot machine game built using Python.
 
----
+## Features
+- Random slot generation
+- Betting system
+- Balance tracking
+- Replay option
 
-## 🚀 Features
-- Random slot results each spin
-- Betting system with balance tracking
-- Win/loss messages
-- Fun emoji symbols 🍒🍉🍋🏁⭐
+## Concepts Used
+- Python functions
+- Loops and conditionals
+- Random module
+- Basic game logic
 
----
+## How to Run
+1. Clone the repository
+2. Run:
+   python slot_machine.py
 
-## 📂 Project Structure
+## Future Improvements
+- Better UI
+- Error handling
+- Modular code structure
 
----
-
-## 🛠 Requirements
-- Python 3.8+  
-(No extra libraries required)
-
----
-
-## ▶️ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/slot-machine-python.git
-   cd slot-machine-python
-
-2. python main.py
-
+## Why I Built This
+This project was built to strengthen my Python fundamentals and logical thinking.
