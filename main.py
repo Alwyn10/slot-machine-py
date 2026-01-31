@@ -2,7 +2,7 @@ import random
 
 Symbols = ['🍒', '🍉', '🍋', '🏁', '⭐']
 
-def spin_row(symbols: list[str]):
+def spin_slot(symbols: list[str]):
     return [random.choice (Symbols) for _ in range(3)]
 
      
@@ -89,4 +89,5 @@ def main():
 
 
 if __name__ == '__main__':
+
     main()
